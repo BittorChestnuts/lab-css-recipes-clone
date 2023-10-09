@@ -22,3 +22,51 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+.titulo{
+  background-image: url("../images/apple-pie.jpg");
+  height: 600px;
+  text-align: center;
+  background-size: cover;
+  font-size: 45px;
+  color: whitesmoke;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.desc{
+  text-align: justify;
+  margin: 0;
+  padding: 30px;
+  font-size: 18px;
+}
+
+.ingredients{
+  text-align: justify;
+  margin: 0;
+  padding: 30px;
+  font-size: 20px;
+}
+.instructions{
+  text-align: left;
+  margin: 0;
+  padding: 30px;
+  font-size: 16px;
+}
+
+.directions{
+  text-align: justify;
+  margin: 0;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.listofdirections{
+  text-align: left;
+  margin: 0;
+  padding: 30px;
+  font-size: 16px;
+}
+
